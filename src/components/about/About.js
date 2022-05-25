@@ -8,10 +8,10 @@ const About = () => {
       <div className="about-desc">
         <h3>About Me</h3>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis
-          provident inventore quod voluptates sequi. Quis, necessitatibus omnis
-          iusto perferendis dolores voluptate et dolorum inventore autem nemo,
-          quos eveniet magni nesciunt.
+          I build web applications, from their data modeling to their design. I
+          am a continuous learner, curious, proactive, and tech-passionated, who
+          wants to contribute to his region's development through technology and
+          software engineering.
         </p>
       </div>
       <div className="about-img">
