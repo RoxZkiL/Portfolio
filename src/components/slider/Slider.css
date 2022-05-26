@@ -20,6 +20,7 @@
   overflow: hidden;
   position: relative;
   cursor: pointer;
+  border: 2px solid white;
 }
 
 .slide-container > img {

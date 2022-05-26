@@ -18,7 +18,7 @@ const Slider = () => {
         animationSpeed={200}
         centered
         offset={50}
-        itemWidth={400}
+        itemWidth={600}
         slides={Slides}
         breakpoints={{
           960: {

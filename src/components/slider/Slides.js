@@ -1,8 +1,8 @@
 import React from "react";
 import "./Slider.css";
-import image1 from "./pi.jpg";
-import image2 from "./E-Commerce CompuTechShop.jpg";
-import image3 from "./The Dog's App.jpg";
+import image1 from "./pi (4).jpg";
+import image2 from "./otroPIDogs (1).jpg";
+import image3 from "./pgEcommerce (1).jpg";
 
 const slidesInfo = [
   {
@@ -13,15 +13,15 @@ const slidesInfo = [
   },
   {
     src: image2,
-    alt: "CompuTechShop E-Commerce",
-    desc: "CompuTechShop E-Commerce",
-    link: "https://computechshop.vercel.app/",
-  },
-  {
-    src: image3,
     alt: "Dog App",
     desc: "Dog App",
     link: "https://pi-dogs-jesus-matute.vercel.app/home",
+  },
+  {
+    src: image3,
+    alt: "CompuTechShop E-Commerce",
+    desc: "CompuTechShop E-Commerce",
+    link: "https://computechshop.vercel.app/",
   },
 ];
 
