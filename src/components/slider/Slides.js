@@ -21,7 +21,7 @@ const slidesInfo = [
     src: image3,
     alt: "Dog App",
     desc: "Dog App",
-    link: "https://pi-dogs-jesus-matute.vercel.app/",
+    link: "https://pi-dogs-jesus-matute.vercel.app/home",
   },
 ];
 
