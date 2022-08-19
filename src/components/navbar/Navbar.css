@@ -23,3 +23,12 @@
   cursor: pointer;
   font-family: 'Ramabhadra', sans-serif;
 }
+
+@media only screen and (max-width: 960px) {
+  .navbar {
+    margin: 0px;
+    padding: 0px;
+    font-size: 18px;
+    text-align: center;
+  }
+}
