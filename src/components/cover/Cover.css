@@ -27,11 +27,11 @@
 }
 
 .cover-container > p {
-  margin-top: 8px;
   color: white;
-  font-size: 32px;
+  font-size: 35px;
   font-family: 'Goldman';
   margin-top: 100px;
+  text-align: center;
 }
 
 @media screen and (max-width: 960px) {

@@ -92,4 +92,10 @@
   .design-by {
     padding: 0 0 40px 0;
   }
+
+  .sns-links {
+  display: flex;
+  justify-content: space-evenly;
+  }
+
 }
