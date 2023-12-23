@@ -1,8 +1,8 @@
 import React from "react";
 import "./Slider.css";
-import image1 from "./pi (4).jpg";
-import image2 from "./otroPIDogs (1).jpg";
-import image3 from "./pgEcommerce (1).jpg";
+import image1 from "../../media/images/pi (4).jpg";
+import image2 from "../../media/images/tictactoegame.jpg";
+import image3 from "../../media/images/pgEcommerce (1).jpg";
 
 const slidesInfo = [
   {
@@ -13,9 +13,9 @@ const slidesInfo = [
   },
   {
     src: image2,
-    alt: "Dog App",
-    desc: "Dog App",
-    link: "https://pi-dogs-jesus-matute.vercel.app/home",
+    alt: "Tic Tac Toe",
+    desc: "Tic Tac Toe Game",
+    link: "https://tic-tac-toe-game-pt2x1k3me-roxzkil.vercel.app/",
   },
   {
     src: image3,
